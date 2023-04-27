@@ -3,10 +3,12 @@
 # Problema
 * Pela questão de falta de comunicação direta com o colégio pela plataforma whatsapp ou até pela questão de não conseguirem atender as ligações,e outros problemas na qual tambem estão relacionadas com a segurança, principalmente pelos eventos relacionado com as historia de massacre.
 
-# Possivel Solução
+# Possivel Solução☝
 * Por isso a criação de um site ou aplicativo do próprio Góes Calmon seria de extrema importancia.
 
 * Para atualizações sobre o funcionamento do colégio, agendamento para entrega de documentos, matrícula, rematrícula e entre outras questão.
+
+
 
 # Membros do grupo no qual idealizou essa solução:
 
